@@ -1,0 +1,13 @@
+?	help
+A, <-	left
+W, ^	forward
+D, ->	right
+S, v	down
+k	elexir
+h	armor
+e	scroll
+j	food
+q	quit
+
+
+Click -Space- to continue
